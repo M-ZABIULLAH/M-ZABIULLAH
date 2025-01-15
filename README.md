@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m @M-ZABIULLAH
-![Codewars](https://github.r2v.ch/codewars?user=USERNAME&stroke=COLOR)
+![Codewars](https://github.r2v.ch/codewars?user=M-ZABIULLAH&stroke=COLOR)
 - 
 - 👀 I’m interested in UI/UX design, web development, and creating visually appealing digital experiences.
 - 🌱 I’m currently learning dotnet and enhancing my skills in front-end development with HTML and CSS.
