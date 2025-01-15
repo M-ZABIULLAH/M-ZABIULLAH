@@ -10,9 +10,10 @@
 
 
 
-![c-sharp-c](https://github.com/user-attachments/assets/aa2915f7-865f-4247-b3c5-d19e92a42b07)
-![html-1](https://github.com/user-attachments/assets/723d734a-a255-4f88-8561-d94669229006)
-![css-3](https://github.com/user-attachments/assets/b1df1a23-5043-4f6f-be81-d6842f852117)
+<img src="https://github.com/user-attachments/assets/aa2915f7-865f-4247-b3c5-d19e92a42b07" alt="C#" width="100">
+<img src="https://github.com/user-attachments/assets/723d734a-a255-4f88-8561-d94669229006" alt="HTML" width="100">
+<img src="https://github.com/user-attachments/assets/b1df1a23-5043-4f6f-be81-d6842f852117" alt="CSS" width="100">
+
 
 
 <!---
