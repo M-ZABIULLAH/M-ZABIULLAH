@@ -7,8 +7,8 @@
 
 https://www.linkedin.com/in/M-ZABIULLAH/
 
+[<img src="https://github.com/user-attachments/assets/eeea2968-485c-4532-bc1c-90c0d3a01690" alt="Linkedin" width="75">](https://www.linkedin.com/in/M-ZABIULLAH/)
 
-<img src="https://github.com/user-attachments/assets/eeea2968-485c-4532-bc1c-90c0d3a01690" alt="Linkedin" width="50">
 
  
   ![Codewars](https://www.codewars.com/users/M-ZABIULLAH/badges/large)
