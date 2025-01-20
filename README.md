@@ -13,6 +13,8 @@
   ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-C#-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)style=flat&logo=c#&color=61DAFB) 
+![C# Badge](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&color=239120)
+
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
