@@ -1,6 +1,5 @@
 ![M](https://github.com/user-attachments/assets/0cbf2154-f0b3-49dd-bd16-9bc0a7d80402)
 
-👋 Hi, I’m @M-ZABIULLAH
 
 🌱 I’m currently learning ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
