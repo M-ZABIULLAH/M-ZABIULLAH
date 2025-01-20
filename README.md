@@ -3,15 +3,16 @@
 
 🌱 I’m currently learning dotnet.
 
-📫 How to reach me via email at zabee_zh111@yahoo.com
+📫 How to reach me : zabee_zh111@yahoo.com
 
 https://www.linkedin.com/in/M-ZABIULLAH/
+
+
+![LI-Logo](https://github.com/user-attachments/assets/eeea2968-485c-4532-bc1c-90c0d3a01690)
+
  
   ![Codewars](https://www.codewars.com/users/M-ZABIULLAH/badges/large)
 
-
-
-![LI-Logo](https://github.com/https://www.linkedin.com/in/M-ZABIULLAH/)
 
 
 
