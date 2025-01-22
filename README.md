@@ -31,6 +31,11 @@
 ![Ghost Badge](https://img.shields.io/badge/CMS-Ghost-000000?style=flat&logo=ghost&logoColor=white)
 ![Webflow Badge](https://img.shields.io/badge/CMS-Webflow-purple?style=flat&logo=webflow&logoColor=white)
 </br>
+![Adobe Photoshop Badge](https://img.shields.io/badge/Design-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator Badge](https://img.shields.io/badge/Design-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![Adobe InDesign Badge](https://img.shields.io/badge/Design-InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white)
+![Canva Badge](https://img.shields.io/badge/Design-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-ZABIULLAH&layout=compact)](https://github.com/M-ZABIULLAH)
 
 
