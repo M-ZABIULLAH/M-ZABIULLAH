@@ -44,7 +44,7 @@
 ![Adobe InDesign Badge](https://img.shields.io/badge/Design-InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white)
 ![Canva Badge](https://img.shields.io/badge/Design-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-ZABIULLAH&layout=compact)](https://github.com/M-ZABIULLAH)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-ZABIULLAH&layout=compact)](https://github.com/M-ZABIULLAH)    ![Visitor Count](https://profile-counter.glitch.me/M-ZABIULLAH/count.svg)
 
 
 <!---
