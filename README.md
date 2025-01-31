@@ -47,6 +47,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-ZABIULLAH&layout=compact)](https://github.com/M-ZABIULLAH)         <p align="right">![Visitor Count](https://profile-counter.glitch.me/M-ZABIULLAH/count.svg)</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-ZABIULLAH&layout=normal)](https://github.com/M-ZABIULLAH)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-ZABIULLAH&langs_count=5)](https://github.com/M-ZABIULLAH)
+
 
 
 
