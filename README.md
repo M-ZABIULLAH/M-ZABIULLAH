@@ -43,9 +43,9 @@
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Design-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator Badge](https://img.shields.io/badge/Design-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 ![Adobe InDesign Badge](https://img.shields.io/badge/Design-InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white)
-![Canva Badge](https://img.shields.io/badge/Design-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Canva Badge](https://img.shields.io/badge/Design-Canva-00C4CC?style=flat&logo=canva&logoColor=white)    <p align="right">![Visitor Count](https://profile-counter.glitch.me/M-ZABIULLAH/count.svg)</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-ZABIULLAH&layout=normal)](https://github.com/M-ZABIULLAH)     <p align="right">![Visitor Count](https://profile-counter.glitch.me/M-ZABIULLAH/count.svg)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-ZABIULLAH&layout=normal)](https://github.com/M-ZABIULLAH)     
 
 
 
