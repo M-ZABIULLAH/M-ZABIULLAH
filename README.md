@@ -14,7 +14,6 @@
 📫 How to reach me : [<img src="https://github.com/user-attachments/assets/eeea2968-485c-4532-bc1c-90c0d3a01690" alt="Linkedin" width="85">](https://www.linkedin.com/in/M-ZABIULLAH/)   <img src="https://github.com/user-attachments/assets/829b6a27-a984-4909-acb9-a92784793b0b" alt="Email" width="25"> : zabee_zh111@yahoo.com
 
  
-  ![Codewars](https://www.codewars.com/users/M-ZABIULLAH/badges/large)
   [![Codewars](https://www.codewars.com/users/M-ZABIULLAH/badges/large)](https://www.codewars.com/users/M-ZABIULLAH)
 
 
@@ -46,7 +45,7 @@
 ![Adobe InDesign Badge](https://img.shields.io/badge/Design-InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white)
 ![Canva Badge](https://img.shields.io/badge/Design-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-ZABIULLAH&layout=compact)](https://github.com/M-ZABIULLAH)           <p align="right">![Visitor Count](https://profile-counter.glitch.me/M-ZABIULLAH/count.svg)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-ZABIULLAH&layout=compact)](https://github.com/M-ZABIULLAH)         <p align="right">![Visitor Count](https://profile-counter.glitch.me/M-ZABIULLAH/count.svg)</p>
 
 
 <!---
