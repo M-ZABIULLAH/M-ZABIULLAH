@@ -24,7 +24,9 @@
 ![C# Badge](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&color=239120)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+</br>
 ![.NET Badge](https://img.shields.io/badge/Framework-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+</br>
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 </br>
@@ -42,8 +44,9 @@
 ![Adobe Illustrator Badge](https://img.shields.io/badge/Design-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 ![Adobe InDesign Badge](https://img.shields.io/badge/Design-InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white)
 ![Canva Badge](https://img.shields.io/badge/Design-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=M-ZABIULLAH&color=blue&style=flat)
-<p align="right">![Visitor Count](https://profile-counter.glitch.me/M-ZABIULLAH/count.svg)</p>
+![Profile Views](https://komarev.com/ghpvc/?username=M-ZABIULLAH&color=blue&style=flat) 
+<p align="right">![Visitor Count](https://profile-counter.glitch.me/M-ZABIULLAH/count.svg)
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-ZABIULLAH&layout=normal)](https://github.com/M-ZABIULLAH)     
 
