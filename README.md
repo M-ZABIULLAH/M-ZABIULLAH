@@ -9,7 +9,7 @@
 
 </br>
 
-🌱 I’m currently learning ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+🌱 I’m currently learning ![.NET Badge](https://img.shields.io/badge/Framework-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 📫 How to reach me : [<img src="https://github.com/user-attachments/assets/eeea2968-485c-4532-bc1c-90c0d3a01690" alt="Linkedin" width="85">](https://www.linkedin.com/in/M-ZABIULLAH/)   <img src="https://github.com/user-attachments/assets/829b6a27-a984-4909-acb9-a92784793b0b" alt="Email" width="25"> : zabee_zh111@yahoo.com
 
