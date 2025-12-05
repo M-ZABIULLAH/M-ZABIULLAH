@@ -49,8 +49,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-ZABIULLAH&layout=normal)](https://github.com/M-ZABIULLAH)     
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-ZABIULLAH&layout=normal)](https://github.com/M-ZABIULLAH)
 
 
 
